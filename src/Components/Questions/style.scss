@@ -1,0 +1,21 @@
+.question-wrapper {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 10px 10px 5px 0px rgba(223, 213, 213, 0.75);
+  border-radius: 1rem;
+  display: flex;
+  height: 95%;
+  padding: 1rem;
+  .question {
+    width: 70%;
+    padding: 2rem;
+  }
+  .tab-section {
+    width: 30%;
+    background-color: rgb(129, 119, 119);
+    padding: 2rem;
+    border-radius: 2rem;
+  }
+  .ant-radio-group.ant-radio-group-outline {
+    width: 90%;
+  }
+}

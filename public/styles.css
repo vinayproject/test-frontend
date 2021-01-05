@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(235, 219, 219);
+}
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+body {
+  top: 0px !important;
+}
+
+.goog-te-gadget .goog-te-combo {
+}
